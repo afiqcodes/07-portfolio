@@ -1,0 +1,114 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 360 255"
+  fill="none"
+>
+  <!-- Conceptual card artwork; this is not a screenshot of the application. -->
+  <path
+    fill="#1e302d"
+    d="M0 0h360v255H0z"
+  />
+  <path
+    fill="#29433b"
+    d="M0 255 360 73v182Z"
+  />
+  <g transform="rotate(-4 173 146)">
+    <path
+      fill="#0d201a"
+      d="M47 76h250v153H47z"
+    />
+    <path
+      fill="#e1efe3"
+      stroke="#7b9a87"
+      d="M39 68h250v153H39z"
+    />
+    <path
+      fill="#c6ddca"
+      d="M39 68h250v29H39z"
+    />
+    <text
+      x="53"
+      y="87"
+      fill="#2d483d"
+      font-family="monospace"
+      font-size="10"
+    >
+      API CATALOG
+    </text>
+    <g
+      fill="#f4f8f1"
+      stroke="#9fbaa4"
+    >
+      <path
+        d="M53 110h61v41H53zM125 110h61v41h-61zM197 110h77v41h-77zM53 163h61v41H53zM125 163h61v41h-61zM197 163h77v41h-77z"
+      />
+    </g>
+    <g
+      fill="#486955"
+      font-family="monospace"
+      font-size="12"
+    >
+      <text
+        x="68"
+        y="134"
+      >
+        { }
+      </text>
+      <text
+        x="140"
+        y="134"
+      >
+        { }
+      </text>
+      <text
+        x="218"
+        y="134"
+      >
+        { }
+      </text>
+      <text
+        x="68"
+        y="187"
+      >
+        { }
+      </text>
+      <text
+        x="140"
+        y="187"
+      >
+        { }
+      </text>
+      <text
+        x="218"
+        y="187"
+      >
+        { }
+      </text>
+    </g>
+    <path
+      fill="#9fbaa4"
+      d="m269 68 20 20h-20Z"
+    />
+  </g>
+  <g transform="rotate(6 261 192)">
+    <path
+      fill="#101f19"
+      stroke="#6b917b"
+      d="M183 160h151v72H183z"
+    />
+    <text
+      x="195"
+      y="179"
+      fill="#b9f488"
+      font-family="monospace"
+      font-size="10"
+    >
+      200 OK / SANDBOX
+    </text>
+    <path
+      stroke="#a8d8ca"
+      stroke-width="3"
+      d="M197 192h85m-85 10h115m-115 10h65"
+    />
+  </g>
+</svg>

@@ -1,0 +1,96 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 360 255"
+  fill="none"
+>
+  <!-- Conceptual card artwork; this is not a screenshot of the application. -->
+  <path
+    fill="#d2e9b6"
+    d="M0 0h360v255H0z"
+  />
+  <path
+    fill="#bed4a3"
+    d="M0 255 360 70v185Z"
+  />
+  <g transform="rotate(-5 170 150)">
+    <path
+      fill="#304b24"
+      opacity=".16"
+      d="M53 74h225v158H53z"
+    />
+    <path
+      fill="#f2f7ea"
+      stroke="#9db887"
+      d="M43 64h225v158H43z"
+    />
+    <path
+      fill="#e2edce"
+      d="M43 64h225v30H43z"
+    />
+    <path
+      stroke="#9db887"
+      d="M43 94h225"
+    />
+    <text
+      x="58"
+      y="84"
+      fill="#304b24"
+      font-family="Arial,sans-serif"
+      font-weight="bold"
+      font-size="16"
+    >
+      flow
+    </text>
+    <path
+      stroke="#668452"
+      d="M60 113h11v11H60zM60 143h11v11H60zM60 173h11v11H60z"
+    />
+    <path
+      stroke="#668452"
+      stroke-width="2"
+      d="m61 117 4 4 7-9"
+    />
+    <path
+      stroke="#90a87b"
+      stroke-width="4"
+      d="M84 116h85m-85 9h58m-58 21h111m-111 9h73m-73 21h91m-91 9h53"
+    />
+    <path
+      fill="#b9f488"
+      d="M60 201h69v7H60z"
+    />
+    <path
+      fill="#cadbb3"
+      d="m248 64 20 20h-20Z"
+    />
+  </g>
+  <g transform="rotate(7 264 182)">
+    <path
+      fill="#8baa70"
+      opacity=".3"
+      d="M222 146h100v84H222z"
+    />
+    <path
+      fill="#203326"
+      stroke="#75985e"
+      d="M216 140h100v84H216z"
+    />
+    <text
+      x="228"
+      y="159"
+      fill="#bed1b6"
+      font-family="monospace"
+      font-size="9"
+    >
+      MONTHLY PLAN
+    </text>
+    <path
+      fill="#668452"
+      d="M230 191h11v20h-11zM250 178h11v33h-11z"
+    />
+    <path
+      fill="#b9f488"
+      d="M270 167h11v44h-11zM290 184h11v27h-11z"
+    />
+  </g>
+</svg>

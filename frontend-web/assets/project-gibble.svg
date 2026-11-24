@@ -1,0 +1,87 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 360 255"
+  fill="none"
+>
+  <!-- Conceptual card artwork; this is not a screenshot of the application. -->
+  <path
+    fill="#d2e9b6"
+    d="M0 0h360v255H0z"
+  />
+  <path
+    fill="#bfd7a5"
+    d="M0 255 360 73v182Z"
+  />
+  <path
+    fill="#a6bf8e"
+    d="m29 217 115-48 111 47-116 28Z"
+  />
+  <g transform="translate(27 70) scale(1.5)">
+    <path
+      fill="#276949"
+      d="M8 66 33 58 41 29 69 12 94 19 89 36 67 38 63 50 80 50 74 61 58 58 52 78 66 91 42 88 35 72 19 78Z"
+    />
+    <path
+      fill="#70ab64"
+      d="m41 29 28-17-7 26-29 20Z"
+    />
+    <path
+      fill="#4a8957"
+      d="m8 66 27 6 6-43 11 49-10 10-7-16-16 6Z"
+    />
+    <path
+      fill="#a5c87a"
+      d="m69 12 25 7-32 19Z"
+    />
+    <circle
+      cx="81"
+      cy="24"
+      r="2"
+      fill="#173b2b"
+    />
+  </g>
+  <g transform="rotate(5 260 128)">
+    <path
+      fill="#203326"
+      d="M202 67h125v94H202z"
+    />
+    <text
+      x="214"
+      y="86"
+      fill="#b9f488"
+      font-family="monospace"
+      font-size="11"
+    >
+      SELECT *
+    </text>
+    <text
+      x="214"
+      y="103"
+      fill="#bed1b6"
+      font-family="monospace"
+      font-size="10"
+    >
+      FROM connections;
+    </text>
+    <path
+      stroke="#6c8667"
+      d="M214 117h99m-99 12h99m-99 12h99m-68-24v36m34-36v36"
+    />
+  </g>
+  <path
+    fill="#f2f7ea"
+    stroke="#88a570"
+    d="M196 166h131v67H196z"
+  />
+  <path
+    stroke="#64855a"
+    stroke-width="1.5"
+    d="m215 208 38-26 46 26m-46-26 8 35"
+  />
+  <g
+    fill="#b9f488"
+    stroke="#486b3b"
+  >
+    <path d="m208 208 7-7 7 7-7 7Zm38-26 7-7 7 7-7 7Zm46 26 7-7 7 7-7 7Zm-38 9 7-7 7 7-7 7Z" />
+  </g>
+</svg>

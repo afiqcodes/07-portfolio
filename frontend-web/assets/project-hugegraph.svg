@@ -1,0 +1,87 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 360 255"
+  fill="none"
+>
+  <!-- Conceptual card artwork; this is not a screenshot of the application. -->
+  <path
+    fill="#ded9f0"
+    d="M0 0h360v255H0z"
+  />
+  <path
+    fill="#cbc2e0"
+    d="m0 255 360-185v185Z"
+  />
+  <path
+    fill="#9584b5"
+    opacity=".2"
+    d="M32 74h298v157H32z"
+  />
+  <path
+    fill="#f0ecf9"
+    stroke="#a69abc"
+    d="M25 67h298v157H25z"
+  />
+  <path
+    fill="#e4ddef"
+    d="M25 67h298v26H25z"
+  />
+  <text
+    x="38"
+    y="84"
+    fill="#4d4268"
+    font-family="monospace"
+    font-size="9"
+  >
+    GRAPH / CONNECTIONS
+  </text>
+  <path
+    stroke="#8b7aab"
+    stroke-width="1.5"
+    d="m55 165 59-47 48 39 37-44m-37 44 39 46m-87-85 7 83m0 0 41-44m-107 8 66 36m41-44 41-4"
+  />
+  <g
+    stroke="#57476d"
+    stroke-width="1.5"
+  >
+    <path
+      fill="#b9f488"
+      d="m101 118 13-13 13 13-13 13Z"
+    />
+    <path
+      fill="#c2afd9"
+      d="m44 165 11-11 11 11-11 11Zm67 36 10-10 10 10-10 10Zm78 2 12-12 12 12-12 12Z"
+    />
+    <path
+      fill="#d9cbea"
+      d="m188 113 11-11 11 11-11 11Z"
+    />
+    <path
+      fill="#b9f488"
+      d="m146 157 16-16 16 16-16 16Z"
+    />
+  </g>
+  <path
+    fill="#e1d8ed"
+    stroke="#aa9abc"
+    d="M220 106h88v104h-88z"
+  />
+  <text
+    x="230"
+    y="124"
+    fill="#4d4268"
+    font-family="monospace"
+    font-size="8"
+  >
+    PROPERTIES
+  </text>
+  <path
+    stroke="#a28cb9"
+    stroke-width="3"
+    d="M230 138h63m-63 11h43m-43 22h57m-57 11h48m-48 11h32"
+  />
+  <path
+    fill="#a89abb"
+    d="m303 67 20 20h-20Z"
+  />
+</svg>
